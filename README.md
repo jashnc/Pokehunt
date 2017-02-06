@@ -1,0 +1,2 @@
+# Pokehunt
+Java applet game
